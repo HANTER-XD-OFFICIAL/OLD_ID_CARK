@@ -1,1 +1,13 @@
-# OLD_ID_CARK
+```
+$apt update -y
+$apt upgrade -y
+$pkg install python -y
+$pkg install git -y
+$pip install requests
+$rm -rf OLD_ID_CARK
+$git clone https://github.com/HANTER-XD-OFFICIAL/OLD_ID_CARK.git
+$cd OLD_ID_CARK
+$git pull
+$python OLD_ID-CARK.py
+```
+[![In-Shot-20240628-135303334-01.jpg](https://i.postimg.cc/Vv9tW2cN/In-Shot-20240628-135303334-01.jpg)](https://postimg.cc/y3dWVQxq)
